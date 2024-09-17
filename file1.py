@@ -1,1 +1,2 @@
 print("pertama")
+print("kedua")
